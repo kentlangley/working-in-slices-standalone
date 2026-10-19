@@ -1,0 +1,32 @@
+working-in-slices-standalone
+
+This skill adapts slice-discipline 1.4.1 by Harshal Dhir (GitHub: unixguru2k),
+https://github.com/unixguru2k/slice-discipline, which is MIT licensed. The
+method comes from "Own the Slice" by Kent Langley,
+https://www.kentlangley.com/blog/own-the-slice/.
+
+The whole skill (SKILL.md, references/, templates/, scripts/) is licensed
+under the MIT License below. Keep both copyright lines with every copy.
+
+MIT License
+
+Copyright (c) 2026 unixguru2k
+Copyright (c) 2026 Kent Langley (https://kentlangley.com)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
